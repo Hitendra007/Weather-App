@@ -32,7 +32,7 @@ This is a simple weather application built with React that allows users to check
 
 ## Screenshots
 
-![Screenshot]![image](https://github.com/Hitendra007/Weather-App/assets/83388898/e6d3cf91-1df5-4e7e-a7fc-6cc128d84d0d)
+![image](https://github.com/Hitendra007/Weather-App/assets/83388898/e6d3cf91-1df5-4e7e-a7fc-6cc128d84d0d)
 
 
 ## Credits
