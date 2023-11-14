@@ -1,6 +1,7 @@
 # React Weather App
 
-![Weather App](./public/favicon.ico)
+![Weather App]![Uploading image.png…]()
+
 
 ## Overview
 
