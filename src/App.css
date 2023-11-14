@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100&family=Overpass:wght@300&family=Roboto+Slab:wght@500&family=Roboto:wght@300&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+  /* styles.css */
+ 
+  /* Add other styles as needed */
+  font-weight: bold;
+}
+#logo{
+  background-color: white;
+  border-radius: 15px;
+}
+#temp{
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-around;
+
+}
+#unittemp{
+  margin-left: 10px;
+  padding: 2px;
+}
+#loc{
+  background-color: white;
+  border-radius: 15px;
+}
+.main{
+  background-color: rgb(236, 224, 224);
+  background-color: hsla(0, 35%, 92%, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  width:500px;
+  box-shadow: 10px 10px 20px rgba(249, 238, 238, 0.2);
+  border-radius: 8px;
+  border: 2px solid white;
+}
+.maindiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innercontent{
+  border:1px solid black;
+  height: 400px;
+  /* display: flex; */
+  width: 500px;
+  /* justify-content: center; */
+  /* align-items:center; */
+  margin:50px;
+  /* background-color: rgb(108, 239, 71); */
+  border-radius: 10px;
+}
+#whead{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+body{
+  background: #c21500;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffc500, #c21500);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffc500, #c21500); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image: url("D:\study\react\weatherapp\src\assets\bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+#form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+input{
+  border-radius: 4px;
+  padding: 4px;
+}
+button{
+  padding: 3px;
+  border-radius: 4px;
+  background-color: skyblue;
+  
+}
+button:hover{
+  background-color:rgb(5, 176, 244) ;
+}
+.weatherlogo{
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+  flex-direction: column;
+}
+.flex-item {
+  /* Add any styling for your flex items */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+.other{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.humid{
+  height: 25px;
+  width: 25px;
+  margin-right: 3px;
+}
+.flexitem{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 8px;
+  border-radius: 10px;
+}
