@@ -40,8 +40,4 @@ This is a simple weather application built with React that allows users to check
 - Icons: [Weather API](https://www.weatherapi.com/)
 - Humidity and Wind Icons: [Flaticon](https://www.flaticon.com/)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to contribute, report issues, or suggest improvements. Happy coding! 🚀
